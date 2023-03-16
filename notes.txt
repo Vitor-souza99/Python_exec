@@ -1,0 +1,2 @@
+windows + R e colar diretório: %AppData%\Microsoft\Windows\Start Menu\Programs\Startup
+copiar arquivo "main.exe" que está dentro da pasta dist e colar dentro da pasta de inicialização do winadows cujo diretório acima.
